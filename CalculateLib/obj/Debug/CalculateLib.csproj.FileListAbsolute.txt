@@ -1,0 +1,6 @@
+C:\Users\quana\source\repos\CalculateLib\CalculateLib\bin\Debug\CalculateLib.dll
+C:\Users\quana\source\repos\CalculateLib\CalculateLib\bin\Debug\CalculateLib.pdb
+C:\Users\quana\source\repos\CalculateLib\CalculateLib\obj\Debug\CalculateLib.csprojAssemblyReference.cache
+C:\Users\quana\source\repos\CalculateLib\CalculateLib\obj\Debug\CalculateLib.csproj.CoreCompileInputs.cache
+C:\Users\quana\source\repos\CalculateLib\CalculateLib\obj\Debug\CalculateLib.dll
+C:\Users\quana\source\repos\CalculateLib\CalculateLib\obj\Debug\CalculateLib.pdb

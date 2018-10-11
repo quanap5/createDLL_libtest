@@ -1,0 +1,13 @@
+C:\Users\quana\source\repos\CalculateLib\ClienCalculate\bin\Debug\ClienCalculate.exe.config
+C:\Users\quana\source\repos\CalculateLib\ClienCalculate\bin\Debug\ClienCalculate.exe
+C:\Users\quana\source\repos\CalculateLib\ClienCalculate\bin\Debug\ClienCalculate.pdb
+C:\Users\quana\source\repos\CalculateLib\ClienCalculate\obj\Debug\ClienCalculate.csprojAssemblyReference.cache
+C:\Users\quana\source\repos\CalculateLib\ClienCalculate\obj\Debug\ClienCalculate.Form1.resources
+C:\Users\quana\source\repos\CalculateLib\ClienCalculate\obj\Debug\ClienCalculate.Properties.Resources.resources
+C:\Users\quana\source\repos\CalculateLib\ClienCalculate\obj\Debug\ClienCalculate.csproj.GenerateResource.cache
+C:\Users\quana\source\repos\CalculateLib\ClienCalculate\obj\Debug\ClienCalculate.csproj.CoreCompileInputs.cache
+C:\Users\quana\source\repos\CalculateLib\ClienCalculate\obj\Debug\ClienCalculate.exe
+C:\Users\quana\source\repos\CalculateLib\ClienCalculate\obj\Debug\ClienCalculate.pdb
+C:\Users\quana\source\repos\CalculateLib\ClienCalculate\bin\Debug\CalculateLib.dll
+C:\Users\quana\source\repos\CalculateLib\ClienCalculate\bin\Debug\CalculateLib.pdb
+C:\Users\quana\source\repos\CalculateLib\ClienCalculate\obj\Debug\ClienCalculate.csproj.CopyComplete
