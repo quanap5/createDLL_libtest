@@ -14,41 +14,15 @@ Step2: Change the default class to your desired name
 I give an example with name as Calculate. This class contains the methods like addition and submission 2 integer.
 
 Step3: Details of each methods for addtition and submission.
-
- public class Calculate
-    {
-        /// <summary>
-        /// Method is used for Add
-        /// </summary>
-        /// <param name="a"></param>
-        /// <param name="b"></param>
-        /// <returns></returns>
-        public int Add(int a, int b)
-        {
-            return a + b;
-        }
-        /// <summary>
-        /// Method is used for Sub
-        /// </summary>
-        /// <param name="a"></param>
-        /// <param name="b"></param>
-        /// <returns></returns>
-        public int Sub(int a, int b)
-        {
-            return a - b;
-        }
-
-    }
+  
+Step4: Build the solution to create the DLL in folder ../bin/debug/...
     
-    Step4: Build the solution to create the DLL in folder ../bin/debug/...
+Using DLL file as reference in your application.
     
+Step1: Create an project File --> New --> Project then select Template you want to implement
     
-    Using DLL file as reference in your application.
+Step2: Design form and write the logic code
     
-    Step1: Create an project File --> New --> Project then select Template you want to implement
+Step3: Add DLL using CalculateLib.dll from previous phase. Right-click on the project and then click to Add reference
     
-    Step2: Design form and write the logic code
-    
-    Step3: Add DLL using CalculateLib.dll from previous phase. Right-click on the project and then click to Add reference
-    
-    Finish
+Finish
